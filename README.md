@@ -1,5 +1,9 @@
 #Python core technology and practice
 #极客时间付费课程《Python核心技术与实战》的学习笔记
+笔记作者：代码小工蚁
+微信：antspi
+欢迎交流
+
 https://github.com/antspi/python-practice.git
 
 ##开篇1讲
