@@ -1,6 +1,6 @@
 #Python core technology and practice
 #极客时间付费课程《Python核心技术与实战》的学习笔记
-
+https://github.com/antspi/python-practice.git
 
 ##开篇1讲
 景霄 2019-05-08
